@@ -1,3 +1,5 @@
+Click here https://github.com/mariapopadiuk/typescript-tutorial.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
